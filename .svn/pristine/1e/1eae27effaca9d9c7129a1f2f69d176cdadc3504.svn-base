@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidStudioCode\\lawtreeproject\\lawtree\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\nrtc_setting_pref.xml",
+        "source": "D:\\AndroidStudioCode\\lawtreeproject\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\xml\\nrtc_setting_pref.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioCode\\lawtreeproject\\lawtree\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\provider_paths.xml",
+        "source": "D:\\AndroidStudioCode\\lawtreeproject\\uikit\\build\\intermediates\\bundles\\debug\\res\\xml\\provider_paths.xml"
+    }
+]

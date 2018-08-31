@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="com.huawei.android.hms:base-2.5.3.302">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/base-2.5.3.302.aar/f88f286ad88e3d1b65e56aa29f2a0e98/jars/libs/UpdateSdk_release_V2.0.1.302.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/base-2.5.3.302.aar/f88f286ad88e3d1b65e56aa29f2a0e98/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/base-2.5.3.302.aar/f88f286ad88e3d1b65e56aa29f2a0e98/jars/libs/hianalytics_v2.9.1.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/base-2.5.3.302.aar/f88f286ad88e3d1b65e56aa29f2a0e98/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.huawei.android.hms/base/2.5.3.302/6ded65550cd2b825aa09417f2457b57871f0dcb3/base-2.5.3.302-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

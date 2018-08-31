@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="D:\AndroidStudioCode\lawtreeproject\updateapplibrary\src\main\res"/><source path="D:\AndroidStudioCode\lawtreeproject\updateapplibrary\build\generated\res\rs\debug"/><source path="D:\AndroidStudioCode\lawtreeproject\updateapplibrary\build\generated\res\resValues\debug"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="D:\AndroidStudioCode\lawtreeproject\updateapplibrary\src\main\res"><file name="checkupdatelibrary_shape_dialog_background" path="D:\AndroidStudioCode\lawtreeproject\updateapplibrary\src\main\res\drawable\checkupdatelibrary_shape_dialog_background.xml" qualifiers="" type="drawable"/><file name="checkupdatelibrary_shape_no_update_button" path="D:\AndroidStudioCode\lawtreeproject\updateapplibrary\src\main\res\drawable\checkupdatelibrary_shape_no_update_button.xml" qualifiers="" type="drawable"/><file name="checkupdatelibrary_shape_update_button" path="D:\AndroidStudioCode\lawtreeproject\updateapplibrary\src\main\res\drawable\checkupdatelibrary_shape_update_button.xml" qualifiers="" type="drawable"/><file name="icon_downloading" path="D:\AndroidStudioCode\lawtreeproject\updateapplibrary\src\main\res\drawable-xxhdpi\icon_downloading.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="checkupdatelibrary_force_update_dialog_layout" path="D:\AndroidStudioCode\lawtreeproject\updateapplibrary\src\main\res\layout\checkupdatelibrary_force_update_dialog_layout.xml" qualifiers="" type="layout"/><file name="checkupdatelibrary_notification_downloading_layout" path="D:\AndroidStudioCode\lawtreeproject\updateapplibrary\src\main\res\layout\checkupdatelibrary_notification_downloading_layout.xml" qualifiers="" type="layout"/><file name="checkupdatelibrary_update_dialog_layout" path="D:\AndroidStudioCode\lawtreeproject\updateapplibrary\src\main\res\layout\checkupdatelibrary_update_dialog_layout.xml" qualifiers="" type="layout"/><file path="D:\AndroidStudioCode\lawtreeproject\updateapplibrary\src\main\res\values\attr.xml" qualifiers=""><declare-styleable name="NumberProgressBar">
+        <attr format="integer" name="progress_current"/>
+        <attr format="integer" name="progress_max"/>
+
+        <attr format="color" name="progress_unreached_color"/>
+        <attr format="color" name="progress_reached_color"/>
+
+        <attr format="dimension" name="progress_reached_bar_height"/>
+        <attr format="dimension" name="progress_unreached_bar_height"/>
+
+        <attr format="dimension" name="progress_text_size"/>
+        <attr format="color" name="progress_text_color"/>
+
+        <attr format="dimension" name="progress_text_offset"/>
+
+        <attr format="enum" name="progress_text_visibility">
+            <enum name="visible" value="0"/>
+            <enum name="invisible" value="1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="Themes">
+        <attr format="reference" name="numberProgressBarStyle"/>
+    </declare-styleable></file><file path="D:\AndroidStudioCode\lawtreeproject\updateapplibrary\src\main\res\values\color.xml" qualifiers=""><color name="update_button">#64B5F6</color><color name="no_update_button">#EBEBEB</color></file><file path="D:\AndroidStudioCode\lawtreeproject\updateapplibrary\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">CheckUpdateLibrary</string></file><file name="checkupdatelibrary_uri_grant" path="D:\AndroidStudioCode\lawtreeproject\updateapplibrary\src\main\res\xml\checkupdatelibrary_uri_grant.xml" qualifiers="" type="xml"/></source><source path="D:\AndroidStudioCode\lawtreeproject\updateapplibrary\build\generated\res\rs\debug"/><source path="D:\AndroidStudioCode\lawtreeproject\updateapplibrary\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="D:\AndroidStudioCode\lawtreeproject\updateapplibrary\src\debug\res"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="D:\AndroidStudioCode\lawtreeproject\updateapplibrary\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="NumberProgressBar"><attr format="integer" name="progress_current"/><attr format="integer" name="progress_max"/><attr format="color" name="progress_unreached_color"/><attr format="color" name="progress_reached_color"/><attr format="dimension" name="progress_reached_bar_height"/><attr format="dimension" name="progress_unreached_bar_height"/><attr format="dimension" name="progress_text_size"/><attr format="color" name="progress_text_color"/><attr format="dimension" name="progress_text_offset"/><attr format="enum" name="progress_text_visibility">
+            <enum name="visible" value="0"/>
+            <enum name="invisible" value="1"/>
+        </attr></declare-styleable><declare-styleable name="Themes"><attr format="reference" name="numberProgressBarStyle"/></declare-styleable></configuration></mergedItems></merger>

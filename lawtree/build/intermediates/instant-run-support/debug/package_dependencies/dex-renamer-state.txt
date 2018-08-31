@@ -1,0 +1,7 @@
+#Thu May 31 09:02:34 CST 2018
+base.0=F\:\\android_project\\ls\\lawtree\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\android_project\\ls\\lawtree\\build\\intermediates\\transforms\\dexMerger\\debug\\10\\classes2.dex
+base.1=F\:\\android_project\\ls\\lawtree\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+file.0=F\:\\android_project\\ls\\lawtree\\build\\intermediates\\transforms\\dexMerger\\debug\\10\\classes.dex

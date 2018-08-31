@@ -1,0 +1,23 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioCode\lawtreeproject\zxing\src\main\AndroidManifest.xml:1:1-53
+INJECTED from D:\AndroidStudioCode\lawtreeproject\zxing\src\main\AndroidManifest.xml:1:1-53
+INJECTED from D:\AndroidStudioCode\lawtreeproject\zxing\src\main\AndroidManifest.xml:1:1-53
+	package
+		ADDED from D:\AndroidStudioCode\lawtreeproject\zxing\src\main\AndroidManifest.xml:1:11-51
+		INJECTED from D:\AndroidStudioCode\lawtreeproject\zxing\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioCode\lawtreeproject\zxing\src\main\AndroidManifest.xml
+uses-sdk
+INJECTED from D:\AndroidStudioCode\lawtreeproject\zxing\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndroidStudioCode\lawtreeproject\zxing\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidStudioCode\lawtreeproject\zxing\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidStudioCode\lawtreeproject\zxing\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidStudioCode\lawtreeproject\zxing\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\AndroidStudioCode\lawtreeproject\zxing\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioCode\lawtreeproject\zxing\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioCode\lawtreeproject\zxing\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidStudioCode\lawtreeproject\zxing\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioCode\lawtreeproject\zxing\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioCode\lawtreeproject\zxing\src\main\AndroidManifest.xml
